@@ -1,0 +1,12 @@
+{
+  "name": "Remix: Remix: Ghost Shop Admin",
+  "description": "Panel administrativo en tiempo real para la plataforma de domicilios Ghost Shop.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
